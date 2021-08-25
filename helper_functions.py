@@ -96,9 +96,11 @@ def create_audiobook():
             current += 1
             if current == len(all_words):
                 break
-        TEXT.pop()
-        current -= 1
-        total_chars = 0
+        
+        if current < len(all_words):
+            TEXT.pop()
+            current -= 1
+            total_chars = 0
 
         TEXT = ".".join(TEXT)
 
