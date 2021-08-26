@@ -27,29 +27,33 @@ body, html{
 
 .btn, #uploader{
 	border: 1px solid #fff;
-	font-size: 1.5em;
+	font-size: 1em;
 	text-transform: uppercase;
-	letter-spacing: 2px;
-	background-color: transparent;
+	letter-spacing: 1px;
+	background-color: rgba(167, 34, 34, 0.07);
 	color: #fff;
+	border-radius: 3px;
 }
 
 .btn, #uploader{
 	border: 1px solid #fff;
-	font-size: 1.5em;
+	font-size: 1em;
 	text-transform: uppercase;
-	letter-spacing: 2px;
-	background-color: transparent;
+	letter-spacing: 1px;
+	background-color: rgba(167, 34, 34, 0.07);
 	color: #fff;
+	border-radius: 3px;
 }
 
 .btn, #pick-btn{
 	border: 1px solid #fff;
-	font-size: 1.5em;
+	font-size: 1em;
 	text-transform: uppercase;
-	letter-spacing: 2px;
-	background-color: transparent;
+	letter-spacing: 1px;
+	background-color: rgba(167, 34, 34, 0.07);
 	color: #fff;
+	border-radius: 3px;
+	padding: 10px;
 }
 
 .btn, #selector{
