@@ -25,6 +25,42 @@ body, html{
 
 }
 
+.btn, #uploader{
+	border: 1px solid #fff;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	background-color: transparent;
+	color: #fff;
+}
+
+.btn, #uploader{
+	border: 1px solid #fff;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	background-color: transparent;
+	color: #fff;
+}
+
+.btn, #pick-btn{
+	border: 1px solid #fff;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	background-color: transparent;
+	color: #fff;
+}
+
+.btn, #selector{
+	
+	font-size: 1em;
+	letter-spacing: 2px;
+	background-color: transparent;
+	color: #fff;
+}
+
+
 .container{
 
 	padding: 50px;
@@ -35,9 +71,9 @@ body, html{
 	background: transparent;
 	height: 400px;
 	
-  }
+}
 
-  h1{
+h1{
 	align-items: center;
 	justify-content: center;
 	text-align: center;
@@ -47,6 +83,12 @@ body, html{
 	
 	padding: 1rem 1rem;
 
+	font-size: 35px;
+
+	text-shadow: 0 0 7px #fff,
+			0 0 10px #fff,
+			0 0 21px #fff,
+			0 0 42px #fff;
 	font-size: 35px;
 }
 

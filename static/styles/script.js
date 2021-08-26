@@ -1,4 +1,4 @@
-const open = document.getElementById('selector');
+/* const open = document.getElementById('selector');
 const popup_container = document.getElementById('popup_container');
 const close = document.getElementById('close');
 
@@ -8,7 +8,7 @@ open.addEventListener('click', () => {
 
 close.addEventListener('click', () => {
 	popup_container.classList.remove('show');
-})
+}) */
 
 window.onload	= () => {
 	const pickBtn = document.querySelector("#pick-btn")
